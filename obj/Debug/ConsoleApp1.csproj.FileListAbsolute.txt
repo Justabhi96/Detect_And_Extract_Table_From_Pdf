@@ -1,0 +1,17 @@
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\bin\Debug\itextsharp.dll
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\bin\Debug\itextsharp.xml
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+F:\abhishek\dot_net_work\tabula_web_api\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\IFS-USER\Downloads\Detect_And_Extract_Table_From_Pdf-master\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\IFS-USER\Downloads\Detect_And_Extract_Table_From_Pdf-master\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\IFS-USER\Downloads\Detect_And_Extract_Table_From_Pdf-master\obj\Debug\ConsoleApp1.exe
+C:\Users\IFS-USER\Downloads\Detect_And_Extract_Table_From_Pdf-master\obj\Debug\ConsoleApp1.pdb
+C:\Users\IFS-USER\Downloads\Detect_And_Extract_Table_From_Pdf-master\bin\Debug\ConsoleApp1.exe.config
+C:\Users\IFS-USER\Downloads\Detect_And_Extract_Table_From_Pdf-master\bin\Debug\ConsoleApp1.exe
+C:\Users\IFS-USER\Downloads\Detect_And_Extract_Table_From_Pdf-master\bin\Debug\ConsoleApp1.pdb
+C:\Users\IFS-USER\Downloads\Detect_And_Extract_Table_From_Pdf-master\bin\Debug\itextsharp.xml
